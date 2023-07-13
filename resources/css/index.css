@@ -1,0 +1,40 @@
+html, body{
+    font-family: Helvetica;
+}
+
+header h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(../image/pattern.jpeg);
+    margin: 50px auto;
+    text-align: center;
+}
+
+.title-section h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.mediumspringgreen {
+    background-color: mediumspringgreen;
+}
+
+.lightcoral{
+    background-color: lightcoral;
+}
+
+.skyblue{
+    background-color: skyblue;
+}
+
+.price{
+    font-weight: bold;
+    color: blue;
+}
+
+
+
+
